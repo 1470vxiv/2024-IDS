@@ -1,2 +1,2 @@
 # 2024-IDS
-2024 Intro of Data Structure
+2024 Introduction to Data Structure
